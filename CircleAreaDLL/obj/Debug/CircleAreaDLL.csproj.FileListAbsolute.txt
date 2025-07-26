@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\CircleAreaDLL\bin\Debug\CircleAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\CircleAreaDLL\bin\Debug\CircleAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\CircleAreaDLL\obj\Debug\CircleAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\CircleAreaDLL\obj\Debug\CircleAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\CircleAreaDLL\obj\Debug\CircleAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\CircleAreaDLL\obj\Debug\CircleAreaDLL.pdb

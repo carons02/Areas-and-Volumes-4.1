@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ConeAreaDLL\bin\Debug\ConeAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ConeAreaDLL\bin\Debug\ConeAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ConeAreaDLL\obj\Debug\ConeAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ConeAreaDLL\obj\Debug\ConeAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ConeAreaDLL\obj\Debug\ConeAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ConeAreaDLL\obj\Debug\ConeAreaDLL.pdb
