@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\TriangleAreaDLL\bin\Debug\TriangleAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\TriangleAreaDLL\bin\Debug\TriangleAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\TriangleAreaDLL\obj\Debug\TriangleAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\TriangleAreaDLL\obj\Debug\TriangleAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\TriangleAreaDLL\obj\Debug\TriangleAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\TriangleAreaDLL\obj\Debug\TriangleAreaDLL.pdb
