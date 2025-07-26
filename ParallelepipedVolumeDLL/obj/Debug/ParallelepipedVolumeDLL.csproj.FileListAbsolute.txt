@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ParallelepipedVolumeDLL\bin\Debug\ParallelepipedVolumeDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ParallelepipedVolumeDLL\bin\Debug\ParallelepipedVolumeDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ParallelepipedVolumeDLL\obj\Debug\ParallelepipedVolumeDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ParallelepipedVolumeDLL\obj\Debug\ParallelepipedVolumeDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ParallelepipedVolumeDLL\obj\Debug\ParallelepipedVolumeDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\ParallelepipedVolumeDLL\obj\Debug\ParallelepipedVolumeDLL.pdb

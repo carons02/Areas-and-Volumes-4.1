@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RectangleAreaDLL\bin\Debug\RectangleAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RectangleAreaDLL\bin\Debug\RectangleAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RectangleAreaDLL\obj\Debug\RectangleAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RectangleAreaDLL\obj\Debug\RectangleAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RectangleAreaDLL\obj\Debug\RectangleAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RectangleAreaDLL\obj\Debug\RectangleAreaDLL.pdb
