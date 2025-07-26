@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RegularPrismVolumeDLL\bin\Debug\RegularPrismVolumeDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RegularPrismVolumeDLL\bin\Debug\RegularPrismVolumeDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RegularPrismVolumeDLL\obj\Debug\RegularPrismVolumeDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RegularPrismVolumeDLL\obj\Debug\RegularPrismVolumeDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RegularPrismVolumeDLL\obj\Debug\RegularPrismVolumeDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RegularPrismVolumeDLL\obj\Debug\RegularPrismVolumeDLL.pdb

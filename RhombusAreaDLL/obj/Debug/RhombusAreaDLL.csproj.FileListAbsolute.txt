@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RhombusAreaDLL\bin\Debug\RhombusAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RhombusAreaDLL\bin\Debug\RhombusAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RhombusAreaDLL\obj\Debug\RhombusAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RhombusAreaDLL\obj\Debug\RhombusAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RhombusAreaDLL\obj\Debug\RhombusAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\RhombusAreaDLL\obj\Debug\RhombusAreaDLL.pdb

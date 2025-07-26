@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SquareAreaDLL\bin\Debug\SquareAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SquareAreaDLL\bin\Debug\SquareAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SquareAreaDLL\obj\Debug\SquareAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SquareAreaDLL\obj\Debug\SquareAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SquareAreaDLL\obj\Debug\SquareAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SquareAreaDLL\obj\Debug\SquareAreaDLL.pdb

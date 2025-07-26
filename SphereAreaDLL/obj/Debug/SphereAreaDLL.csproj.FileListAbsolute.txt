@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SphereAreaDLL\bin\Debug\SphereAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SphereAreaDLL\bin\Debug\SphereAreaDLL.pdb
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SphereAreaDLL\obj\Debug\SphereAreaDLL.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SphereAreaDLL\obj\Debug\SphereAreaDLL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SphereAreaDLL\obj\Debug\SphereAreaDLL.dll
+C:\Users\My PC\Desktop\MS539\Areas and Volumes\SphereAreaDLL\obj\Debug\SphereAreaDLL.pdb
